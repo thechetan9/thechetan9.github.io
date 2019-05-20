@@ -7,10 +7,10 @@
 
         private static function makeConnection() 
         {
-            $db         = 'epiz_23931648_test';
-            $server     = 'sql308.epizy.com';
-            $user       = 'epiz_23931648';
-            $password   = 'AzZ7wafpQvCi';
+            $db         = 'test';
+            $server     = 'localhost';
+            $user       = 'root';
+            $password   = '';
             
             try 
             {
